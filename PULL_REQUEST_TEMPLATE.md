@@ -1,7 +1,7 @@
 # Pull Request Details  
 
 ## **JIRA/EBUG Ticket**
-[JIRA/EBUG Ticket]: _______________
+  JIRA/EBUG Ticket: ______
 
 ## **Type of Change**  
 - [ ] New Feature
